@@ -36,7 +36,7 @@ body-parser (for handling request bodies)
 
 Steps to Install and Run
 
-Clone the repository git clone https://github.com/Karan-SB399/big-box-inventory.git cd big-box-inventory
+Clone the repository git clone https://github.com/Karan-SB399/BB-Inventory-Retrieval/tree/main cd big-box-inventory
 
 Install dependencies npm install
 
