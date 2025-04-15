@@ -4,7 +4,7 @@ Big Box Inventory Retrieval
 
 🚀 Overview
 
-This project creates a local server that holds inventory data and their associated physical location codes. Employees can access the server through their web browser and quickly input UPC codes to locate the associated items. I have added the python prototype, which includes all the features, without creating a local server to host the application.
+This project creates a local server that holds inventory data and their associated physical location codes. Employees can access the server through their web browser and quickly input UPC codes to locate the associated items. I have added the python prototype, which includes all the features, without creating a local server to host the application. There is also a project proposal created for the purposes of presenting a long-term implementation of the app and further solutions.
 
 ✨ Features
 
